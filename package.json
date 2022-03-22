@@ -1,0 +1,11 @@
+{
+  "name": "feriados",
+  "description": "A serverless API for chilean holidays. All data is scraped from feriados.cl website.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "dayjs": "^1.11.0",
+    "jsdom": "^19.0.0"
+  }
+}
